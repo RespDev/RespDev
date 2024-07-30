@@ -50,7 +50,6 @@ I'm good at problem solving and figuring out how to make programs run and work c
 ### 📝 Dev Blog:
 
 <!-- BLOG-POST-LIST:START -->
-- [Test](https://gist.github.com/RespDev/35c6fe9d4f931420d94d6cb6afd50335)
 <!-- BLOG-POST-LIST:END -->
 
 ---
