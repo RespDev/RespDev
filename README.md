@@ -31,12 +31,6 @@ I enjoy coding in my free time for fun. I learned to code from taking apart open
 
 ---
 
-### 📃 My Skills:
-
-I'm good at problem solving and figuring out how to make programs run and work correctly. I have patience to deal with problems that take a long time to figure out. I'm always trying to learn new skills to improve.
-
----
-
 ### 💻 My Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RespDev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
